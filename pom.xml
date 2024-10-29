@@ -41,6 +41,7 @@
 				<configuration>
 					<source>${jdk.version}</source>
 					<target>${jdk.version}</target>
+					<attachClasses>true</attachClasses>
 				</configuration>
 			</plugin>
 
